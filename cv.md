@@ -42,5 +42,3 @@ function numberToString(num) {
 * English - Upper Intermediate/Advanced(according to the online test at Staffordhouse.com);
 * Russian - native.
 
-
-![english](./photo5260739569689672745.jpg)
