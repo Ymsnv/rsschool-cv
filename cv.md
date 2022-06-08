@@ -41,4 +41,3 @@ function numberToString(num) {
 ### Languages
 * English - Upper Intermediate/Advanced(according to the online test at Staffordhouse.com);
 * Russian - native.
-
